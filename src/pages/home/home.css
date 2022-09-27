@@ -1,0 +1,17 @@
+.container-home{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+}
+span{
+    background-color: #222;
+    color: white;
+}
+.container-home p{
+    color:#222
+}
+.container-home img{
+    margin-top: 30px;
+}

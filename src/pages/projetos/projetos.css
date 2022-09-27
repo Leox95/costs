@@ -1,0 +1,14 @@
+.container-projeto{
+    width: 80%;
+    margin: 0 auto;
+}
+.titulo-projeto{
+    display: flex;
+    justify-content: space-between;
+}
+.container-card{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}

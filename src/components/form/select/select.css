@@ -1,0 +1,13 @@
+.form-control{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2em;
+}
+
+.form-control label{
+    margin-bottom: .6em;
+    font-weight: bold;
+}
+.form-control select{
+    width: 400px;
+}

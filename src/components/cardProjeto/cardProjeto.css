@@ -1,0 +1,25 @@
+.card-projeto{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    width: 300px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+
+}
+.card-projeto h4{
+    background-color: #222;
+    color: white;
+}
+.icones-card{
+    display: flex;
+    flex-direction: column;
+}
+.lixeira{
+    cursor: pointer;
+}
+.editar{
+    text-decoration: none;
+    cursor: pointer;
+    color: #222
+}

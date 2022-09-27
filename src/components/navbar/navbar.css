@@ -1,0 +1,17 @@
+.moeda{
+    width: 25%;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    justify-items: center;
+    align-items: center;
+    background-color: #222;
+    color: white;
+}
+.link-nav{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}

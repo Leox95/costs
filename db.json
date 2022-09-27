@@ -1,0 +1,58 @@
+{
+  "projeto": [
+    {
+      "name": "zezé 2.0",
+      "orcamento": "3000",
+      "categorias": {
+        "id": "2",
+        "name": "pessoal"
+      },
+      "cost": 1000,
+      "services": [
+        {
+          "nome": "comprar patinete",
+          "cost": "1000",
+          "descricao": "agradar faria limer",
+          "id": "b9b11085-60f5-4cf2-9d15-34cdf2af2028"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Projeto editado",
+      "orcamento": "4000",
+      "categorias": {
+        "id": "2",
+        "name": "pessoal"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "Leonardo Paixão Silva",
+      "orcamento": "4000",
+      "categorias": {
+        "id": "3",
+        "name": "backoffice"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    }
+  ],
+  "categorias": [
+    {
+      "id": "1",
+      "categoria": "infra"
+    },
+    {
+      "id": "2",
+      "categoria": "pessoal"
+    },
+    {
+      "id": "3",
+      "categoria": "backoffice"
+    }
+  ]
+}
